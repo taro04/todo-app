@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todo-app-b04a6": {
+      "hosting": {
+        "todo-app": [
+          "todo-app-b04a6"
+        ]
+      }
+    }
+  }
+}
